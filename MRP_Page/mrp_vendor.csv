@@ -1,0 +1,4 @@
+INDEX,VEND_CODE,VENDORNAME,ADRS1,ADRS2,ADRS3,COUNTRY,CITY,STATE,ZIP,DATE_CREATED
+0,TST01,Test,Test Address,,,United States,Dallas,TX,1112,Mar-20-2023
+1,TST02,TST02,Circuit City Ln,,,United States,Circuit,TX,0,Apr-03-2023
+2,TST03,TST03,Digit Blvd,None,None,United States,Digit,TX,10110,Apr-03-2023
